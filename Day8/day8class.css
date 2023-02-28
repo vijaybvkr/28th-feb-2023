@@ -1,0 +1,21 @@
+*{
+	color:white;
+	font-family:'roboto';
+	margin: 0%;
+}
+.bgimg{
+	background-image:url(https://img.freepik.com/free-photo/merry-christmas-red-background_1361-3542.jpg?w=1060&t=st=1677042607~exp=1677043207~hmac=f533b1273493e2bdb440ac286286f08d6f82575d227a6e23ea5920d452c9b9c5);
+	background-size:cover;
+	height:100vh;
+}
+.para{
+	padding: 13px;
+}
+.stylebt {
+	background-color: orange;
+	color: white;
+	border: solid;
+	border-color:black;
+	padding: 10px;
+	cursor: pointer;
+}
